@@ -1,0 +1,8 @@
+{
+  "connection":{
+    "server"  : "10.120.220.100",
+    "userName": "sa",
+    "password": "orFe#3<%Ut5?kjbj",
+    "options": { "encrypt": false, "database": "StuK_DB" }
+  }
+}
